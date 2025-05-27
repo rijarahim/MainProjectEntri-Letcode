@@ -1,0 +1,45 @@
+
+# Java class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# Eclipse files
+.project
+.classpath
+.settings/
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+*.iws
+out/
+
+# Maven
+target/
+
+# Gradle (if used)
+.gradle/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment and temporary files
+*.swp
+*.bak
+*.tmp
+
+# VS Code
+.vscode/
+
+# Test result files
+test-output/
+surefire-reports/

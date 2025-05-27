@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="MasterSuite" parallel="tests" thread-count="2">
+    <suite-files>
+   		<suite-file path="alert.xml"/>
+   		<suite-file path="button.xml"/>
+   		<suite-file path="calender.xml"/>
+   		<suite-file path="crossBrowserTesting.xml"/>
+   		<suite-file path="drag.xml"/>
+        <suite-file path="drop.xml"/>
+        <suite-file path="edit.xml"/>
+        <suite-file path="element.xml"/>
+        <suite-file path="file.xml"/>
+        <suite-file path="login.xml"/>
+        <suite-file path="radio.xml"/>
+        <suite-file path="select.xml"/>
+        <suite-file path="shadow.xml"/>
+        <suite-file path="wait.xml"/>
+        <suite-file path="window.xml"/>
+        <suite-file path="frame.xml"/>
+        <suite-file path="form.xml"/>
+    </suite-files>
+</suite>

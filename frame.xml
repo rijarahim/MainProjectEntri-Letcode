@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="FrameSuite">
+  <test name="FrameTest">
+    <classes>
+      <class name="Workspace.FrameAutomation">
+        <methods>
+        </methods>
+      </class>
+    </classes>
+  </test>
+</suite>

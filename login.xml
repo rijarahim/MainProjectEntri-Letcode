@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="POMSuite">
+  <test name="POMTest">
+    <classes>
+      <class name="Workspace.POMAutomation">
+        <methods>
+          <include name="PositiveLoginTest"/>
+          <include name="HomePage"/>
+          <include name="NegetiveLoginTest"/>
+        </methods>
+      </class>
+    </classes>
+  </test>
+</suite>

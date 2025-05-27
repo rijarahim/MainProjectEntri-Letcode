@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="FormSuite">
+  <test name="FormTest">
+    <classes>
+      <class name="Workspace.FormAutomation">
+        <methods>
+        </methods>
+      </class>
+    </classes>
+  </test>
+</suite>

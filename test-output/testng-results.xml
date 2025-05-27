@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="42" passed="40" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-27T22:34:32 IST" name="AlertSuite" finished-at="2025-05-27T22:34:50 IST" duration-ms="18534">
+    <groups>
+    </groups>
+    <test started-at="2025-05-27T22:34:32 IST" name="AlertTest" finished-at="2025-05-27T22:34:50 IST" duration-ms="18534">
+      <class name="Workspace.AlertAutomation">
+        <test-method is-config="true" signature="initializeBrowser()[pri:0, instance:Workspace.AlertAutomation@37ceb1df]" started-at="2025-05-27T22:34:32 IST" name="initializeBrowser" finished-at="2025-05-27T22:34:35 IST" duration-ms="2993" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method is-config="true" signature="navigation()[pri:0, instance:Workspace.AlertAutomation@37ceb1df]" started-at="2025-05-27T22:34:35 IST" name="navigation" finished-at="2025-05-27T22:34:37 IST" duration-ms="2797" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigation -->
+        <test-method signature="SimpleAlert()[pri:1, instance:Workspace.AlertAutomation@37ceb1df]" started-at="2025-05-27T22:34:37 IST" name="SimpleAlert" finished-at="2025-05-27T22:34:40 IST" duration-ms="3086" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SimpleAlert -->
+        <test-method signature="ConfirmAlert()[pri:2, instance:Workspace.AlertAutomation@37ceb1df]" started-at="2025-05-27T22:34:40 IST" name="ConfirmAlert" finished-at="2025-05-27T22:34:44 IST" duration-ms="3066" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfirmAlert -->
+        <test-method signature="PromptAlert()[pri:3, instance:Workspace.AlertAutomation@37ceb1df]" started-at="2025-05-27T22:34:44 IST" name="PromptAlert" finished-at="2025-05-27T22:34:47 IST" duration-ms="3072" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PromptAlert -->
+        <test-method signature="ModernAlert()[pri:4, instance:Workspace.AlertAutomation@37ceb1df]" started-at="2025-05-27T22:34:47 IST" name="ModernAlert" finished-at="2025-05-27T22:34:50 IST" duration-ms="3113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ModernAlert -->
+        <test-method is-config="true" signature="browserQuit()[pri:0, instance:Workspace.AlertAutomation@37ceb1df]" started-at="2025-05-27T22:34:50 IST" name="browserQuit" finished-at="2025-05-27T22:34:50 IST" duration-ms="362" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserQuit -->
+      </class> <!-- Workspace.AlertAutomation -->
+    </test> <!-- AlertTest -->
+  </suite> <!-- AlertSuite -->
+  <suite started-at="2025-05-27T22:36:27 IST" name="FrameSuite" finished-at="2025-05-27T22:36:31 IST" duration-ms="4759">
+    <groups>
+    </groups>
+    <test started-at="2025-05-27T22:36:27 IST" name="FrameTest" finished-at="2025-05-27T22:36:31 IST" duration-ms="4759">
+      <class name="Workspace.FrameAutomation">
+        <test-method is-config="true" signature="initializeBrowser()[pri:0, instance:Workspace.FrameAutomation@152aa092]" started-at="2025-05-27T22:36:27 IST" name="initializeBrowser" finished-at="2025-05-27T22:36:30 IST" duration-ms="3262" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method signature="frame()[pri:0, instance:Workspace.FrameAutomation@152aa092]" started-at="2025-05-27T22:36:30 IST" name="frame" finished-at="2025-05-27T22:36:31 IST" duration-ms="1388" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- frame -->
+        <test-method is-config="true" signature="browserQuit()[pri:0, instance:Workspace.FrameAutomation@152aa092]" started-at="2025-05-27T22:36:31 IST" name="browserQuit" finished-at="2025-05-27T22:36:31 IST" duration-ms="108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserQuit -->
+      </class> <!-- Workspace.FrameAutomation -->
+    </test> <!-- FrameTest -->
+  </suite> <!-- FrameSuite -->
+  <suite started-at="2025-05-27T22:34:50 IST" name="ButtonSuite" finished-at="2025-05-27T22:34:59 IST" duration-ms="9119">
+    <groups>
+    </groups>
+    <test started-at="2025-05-27T22:34:50 IST" name="MyTest2" finished-at="2025-05-27T22:34:59 IST" duration-ms="9119">
+      <class name="Workspace.ButtonAutomation">
+        <test-method is-config="true" signature="initializeBrowser()[pri:0, instance:Workspace.ButtonAutomation@63070bab]" started-at="2025-05-27T22:34:50 IST" name="initializeBrowser" finished-at="2025-05-27T22:34:53 IST" duration-ms="2749" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method signature="GoToHome()[pri:1, instance:Workspace.ButtonAutomation@63070bab]" started-at="2025-05-27T22:34:53 IST" name="GoToHome" finished-at="2025-05-27T22:34:57 IST" duration-ms="4249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GoToHome -->
+        <test-method signature="findLocation()[pri:2, instance:Workspace.ButtonAutomation@63070bab]" started-at="2025-05-27T22:34:57 IST" name="findLocation" finished-at="2025-05-27T22:34:59 IST" duration-ms="1781" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findLocation -->
+        <test-method signature="findCOLOR()[pri:3, instance:Workspace.ButtonAutomation@63070bab]" started-at="2025-05-27T22:34:59 IST" name="findCOLOR" finished-at="2025-05-27T22:34:59 IST" depends-on-methods="Workspace.ButtonAutomation.findLocation" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findCOLOR -->
+        <test-method signature="findSize()[pri:4, instance:Workspace.ButtonAutomation@63070bab]" started-at="2025-05-27T22:34:59 IST" name="findSize" finished-at="2025-05-27T22:34:59 IST" depends-on-methods="Workspace.ButtonAutomation.findCOLOR" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findSize -->
+        <test-method signature="IsEnabled()[pri:5, instance:Workspace.ButtonAutomation@63070bab]" started-at="2025-05-27T22:34:59 IST" name="IsEnabled" finished-at="2025-05-27T22:34:59 IST" depends-on-methods="Workspace.ButtonAutomation.findSize" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IsEnabled -->
+        <test-method signature="Buttonhold()[pri:6, instance:Workspace.ButtonAutomation@63070bab]" started-at="2025-05-27T22:34:59 IST" name="Buttonhold" finished-at="2025-05-27T22:34:59 IST" depends-on-methods="Workspace.ButtonAutomation.IsEnabled" duration-ms="138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Buttonhold -->
+        <test-method is-config="true" signature="browserQuit()[pri:0, instance:Workspace.ButtonAutomation@63070bab]" started-at="2025-05-27T22:34:59 IST" name="browserQuit" finished-at="2025-05-27T22:34:59 IST" duration-ms="130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserQuit -->
+      </class> <!-- Workspace.ButtonAutomation -->
+    </test> <!-- MyTest2 -->
+  </suite> <!-- ButtonSuite -->
+  <suite started-at="2025-05-27T22:35:58 IST" name="SelectSuite" finished-at="2025-05-27T22:36:03 IST" duration-ms="4580">
+    <groups>
+    </groups>
+    <test started-at="2025-05-27T22:35:58 IST" name="SelectTest" finished-at="2025-05-27T22:36:03 IST" duration-ms="4580">
+      <class name="Workspace.Selectautomation">
+        <test-method is-config="true" signature="initializeBrowser()[pri:0, instance:Workspace.Selectautomation@1356d4d4]" started-at="2025-05-27T22:35:58 IST" name="initializeBrowser" finished-at="2025-05-27T22:36:01 IST" duration-ms="2667" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method is-config="true" signature="navigation()[pri:0, instance:Workspace.Selectautomation@1356d4d4]" started-at="2025-05-27T22:36:01 IST" name="navigation" finished-at="2025-05-27T22:36:02 IST" duration-ms="1354" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigation -->
+        <test-method signature="SelectCountry()[pri:0, instance:Workspace.Selectautomation@1356d4d4]" started-at="2025-05-27T22:36:02 IST" name="SelectCountry" finished-at="2025-05-27T22:36:02 IST" duration-ms="151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectCountry -->
+        <test-method signature="SelectFruit()[pri:0, instance:Workspace.Selectautomation@1356d4d4]" started-at="2025-05-27T22:36:02 IST" name="SelectFruit" finished-at="2025-05-27T22:36:02 IST" duration-ms="90" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectFruit -->
+        <test-method signature="SelectLanguage()[pri:0, instance:Workspace.Selectautomation@1356d4d4]" started-at="2025-05-27T22:36:02 IST" name="SelectLanguage" finished-at="2025-05-27T22:36:02 IST" duration-ms="92" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectLanguage -->
+        <test-method signature="SelectSuperHero()[pri:0, instance:Workspace.Selectautomation@1356d4d4]" started-at="2025-05-27T22:36:02 IST" name="SelectSuperHero" finished-at="2025-05-27T22:36:03 IST" duration-ms="107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectSuperHero -->
+        <test-method is-config="true" signature="browserQuit()[pri:0, instance:Workspace.Selectautomation@1356d4d4]" started-at="2025-05-27T22:36:03 IST" name="browserQuit" finished-at="2025-05-27T22:36:03 IST" duration-ms="116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserQuit -->
+      </class> <!-- Workspace.Selectautomation -->
+    </test> <!-- SelectTest -->
+  </suite> <!-- SelectSuite -->
+  <suite started-at="2025-05-27T22:35:23 IST" name="DropSuite" finished-at="2025-05-27T22:35:29 IST" duration-ms="5879">
+    <groups>
+    </groups>
+    <test started-at="2025-05-27T22:35:23 IST" name="DropTest" finished-at="2025-05-27T22:35:29 IST" duration-ms="5879">
+      <class name="Workspace.DropAutomation">
+        <test-method is-config="true" signature="initializeBrowser()[pri:0, instance:Workspace.DropAutomation@2118cddf]" started-at="2025-05-27T22:35:23 IST" name="initializeBrowser" finished-at="2025-05-27T22:35:27 IST" duration-ms="3792" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method signature="DragAndDrop()[pri:1, instance:Workspace.DropAutomation@2118cddf]" started-at="2025-05-27T22:35:27 IST" name="DragAndDrop" finished-at="2025-05-27T22:35:29 IST" duration-ms="1968" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DragAndDrop -->
+        <test-method is-config="true" signature="browserQuit()[pri:0, instance:Workspace.DropAutomation@2118cddf]" started-at="2025-05-27T22:35:29 IST" name="browserQuit" finished-at="2025-05-27T22:35:29 IST" duration-ms="116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserQuit -->
+      </class> <!-- Workspace.DropAutomation -->
+    </test> <!-- DropTest -->
+  </suite> <!-- DropSuite -->
+  <suite started-at="2025-05-27T22:35:42 IST" name="FileSuite" finished-at="2025-05-27T22:35:45 IST" duration-ms="2978">
+    <groups>
+    </groups>
+    <test started-at="2025-05-27T22:35:42 IST" name="FileTest" finished-at="2025-05-27T22:35:45 IST" duration-ms="2978">
+      <class name="Workspace.FileAutomation">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:Workspace.FileAutomation@5ab9e72c]" started-at="2025-05-27T22:35:42 IST" name="launchBrowser" finished-at="2025-05-27T22:35:45 IST" duration-ms="2600" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="fileDownload()[pri:1, instance:Workspace.FileAutomation@5ab9e72c]" started-at="2025-05-27T22:35:45 IST" name="fileDownload" finished-at="2025-05-27T22:35:45 IST" duration-ms="206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fileDownload -->
+        <test-method signature="fileUploading()[pri:1, instance:Workspace.FileAutomation@5ab9e72c]" started-at="2025-05-27T22:35:45 IST" name="fileUploading" finished-at="2025-05-27T22:35:45 IST" duration-ms="47" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fileUploading -->
+        <test-method is-config="true" signature="browserQuit()[pri:0, instance:Workspace.FileAutomation@5ab9e72c]" started-at="2025-05-27T22:35:45 IST" name="browserQuit" finished-at="2025-05-27T22:35:45 IST" duration-ms="122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserQuit -->
+      </class> <!-- Workspace.FileAutomation -->
+    </test> <!-- FileTest -->
+  </suite> <!-- FileSuite -->
+  <suite started-at="2025-05-27T22:36:21 IST" name="WindowSuite" finished-at="2025-05-27T22:36:27 IST" duration-ms="5862">
+    <groups>
+    </groups>
+    <test started-at="2025-05-27T22:36:21 IST" name="WindowTest" finished-at="2025-05-27T22:36:27 IST" duration-ms="5862">
+      <class name="Workspace.WindowAutomation">
+        <test-method is-config="true" signature="initializeBrowser()[pri:0, instance:Workspace.WindowAutomation@2cdd0d4b]" started-at="2025-05-27T22:36:21 IST" name="initializeBrowser" finished-at="2025-05-27T22:36:24 IST" duration-ms="2799" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method signature="Window()[pri:0, instance:Workspace.WindowAutomation@2cdd0d4b]" started-at="2025-05-27T22:36:24 IST" name="Window" finished-at="2025-05-27T22:36:27 IST" duration-ms="2928" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Window -->
+        <test-method is-config="true" signature="browserQuit()[pri:0, instance:Workspace.WindowAutomation@2cdd0d4b]" started-at="2025-05-27T22:36:27 IST" name="browserQuit" finished-at="2025-05-27T22:36:27 IST" duration-ms="134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserQuit -->
+      </class> <!-- Workspace.WindowAutomation -->
+    </test> <!-- WindowTest -->
+  </suite> <!-- WindowSuite -->
+  <suite started-at="2025-05-27T22:34:59 IST" name="CalenderSuite" finished-at="2025-05-27T22:35:04 IST" duration-ms="4377">
+    <groups>
+    </groups>
+    <test started-at="2025-05-27T22:34:59 IST" name="CalenderTest" finished-at="2025-05-27T22:35:04 IST" duration-ms="4377">
+      <class name="Workspace.CalenderAutomation">
+        <test-method is-config="true" signature="initializeBrowser()[pri:0, instance:Workspace.CalenderAutomation@31f9b85e]" started-at="2025-05-27T22:34:59 IST" name="initializeBrowser" finished-at="2025-05-27T22:35:02 IST" duration-ms="2618" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method is-config="true" signature="navigation()[pri:0, instance:Workspace.CalenderAutomation@31f9b85e]" started-at="2025-05-27T22:35:02 IST" name="navigation" finished-at="2025-05-27T22:35:03 IST" duration-ms="1580" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigation -->
+        <test-method signature="calender()[pri:0, instance:Workspace.CalenderAutomation@31f9b85e]" started-at="2025-05-27T22:35:03 IST" name="calender" finished-at="2025-05-27T22:35:04 IST" duration-ms="54" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- calender -->
+        <test-method is-config="true" signature="browserQuit()[pri:0, instance:Workspace.CalenderAutomation@31f9b85e]" started-at="2025-05-27T22:35:04 IST" name="browserQuit" finished-at="2025-05-27T22:35:04 IST" duration-ms="122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserQuit -->
+      </class> <!-- Workspace.CalenderAutomation -->
+    </test> <!-- CalenderTest -->
+  </suite> <!-- CalenderSuite -->
+  <suite started-at="2025-05-27T22:36:31 IST" name="FormSuite" finished-at="2025-05-27T22:36:38 IST" duration-ms="6242">
+    <groups>
+    </groups>
+    <test started-at="2025-05-27T22:36:31 IST" name="FormTest" finished-at="2025-05-27T22:36:38 IST" duration-ms="6242">
+      <class name="Workspace.FormAutomation">
+        <test-method is-config="true" signature="initializeBrowser()[pri:0, instance:Workspace.FormAutomation@5939a379]" started-at="2025-05-27T22:36:31 IST" name="initializeBrowser" finished-at="2025-05-27T22:36:35 IST" duration-ms="3170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method signature="form()[pri:0, instance:Workspace.FormAutomation@5939a379]" started-at="2025-05-27T22:36:35 IST" name="form" finished-at="2025-05-27T22:36:38 IST" duration-ms="2959" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- form -->
+        <test-method is-config="true" signature="browserQuit()[pri:0, instance:Workspace.FormAutomation@5939a379]" started-at="2025-05-27T22:36:38 IST" name="browserQuit" finished-at="2025-05-27T22:36:38 IST" duration-ms="109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserQuit -->
+      </class> <!-- Workspace.FormAutomation -->
+    </test> <!-- FormTest -->
+  </suite> <!-- FormSuite -->
+  <suite started-at="2025-05-27T22:35:04 IST" name="Cross Browser Suite" finished-at="2025-05-27T22:35:17 IST" duration-ms="13625">
+    <groups>
+    </groups>
+    <test started-at="2025-05-27T22:35:04 IST" name="Testing in Chrome" finished-at="2025-05-27T22:35:06 IST" duration-ms="2562">
+      <class name="Workspace.CrossBrowserTesting">
+        <test-method signature="initializeBrowser(java.lang.String)[pri:0, instance:Workspace.CrossBrowserTesting@6e509ffa]" started-at="2025-05-27T22:35:04 IST" name="initializeBrowser" finished-at="2025-05-27T22:35:06 IST" duration-ms="2446" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method is-config="true" signature="browserQuit()[pri:0, instance:Workspace.CrossBrowserTesting@6e509ffa]" started-at="2025-05-27T22:35:06 IST" name="browserQuit" finished-at="2025-05-27T22:35:06 IST" duration-ms="110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserQuit -->
+      </class> <!-- Workspace.CrossBrowserTesting -->
+    </test> <!-- Testing in Chrome -->
+    <test started-at="2025-05-27T22:35:06 IST" name="Testing in Edge" finished-at="2025-05-27T22:35:10 IST" duration-ms="3875">
+      <class name="Workspace.CrossBrowserTesting">
+        <test-method signature="initializeBrowser(java.lang.String)[pri:0, instance:Workspace.CrossBrowserTesting@2638011]" started-at="2025-05-27T22:35:06 IST" name="initializeBrowser" finished-at="2025-05-27T22:35:09 IST" duration-ms="2652" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method is-config="true" signature="browserQuit()[pri:0, instance:Workspace.CrossBrowserTesting@2638011]" started-at="2025-05-27T22:35:09 IST" name="browserQuit" finished-at="2025-05-27T22:35:10 IST" duration-ms="1222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserQuit -->
+      </class> <!-- Workspace.CrossBrowserTesting -->
+    </test> <!-- Testing in Edge -->
+    <test started-at="2025-05-27T22:35:10 IST" name="Testing in Firefox" finished-at="2025-05-27T22:35:17 IST" duration-ms="7179">
+      <class name="Workspace.CrossBrowserTesting">
+        <test-method signature="initializeBrowser(java.lang.String)[pri:0, instance:Workspace.CrossBrowserTesting@2f465398]" started-at="2025-05-27T22:35:10 IST" name="initializeBrowser" finished-at="2025-05-27T22:35:17 IST" duration-ms="6457" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FireFox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method is-config="true" signature="browserQuit()[pri:0, instance:Workspace.CrossBrowserTesting@2f465398]" started-at="2025-05-27T22:35:17 IST" name="browserQuit" finished-at="2025-05-27T22:35:17 IST" duration-ms="719" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserQuit -->
+      </class> <!-- Workspace.CrossBrowserTesting -->
+    </test> <!-- Testing in Firefox -->
+  </suite> <!-- Cross Browser Suite -->
+  <suite started-at="2025-05-27T22:35:54 IST" name="RadioSuite" finished-at="2025-05-27T22:35:58 IST" duration-ms="4595">
+    <groups>
+    </groups>
+    <test started-at="2025-05-27T22:35:54 IST" name="RadioTest" finished-at="2025-05-27T22:35:58 IST" duration-ms="4595">
+      <class name="Workspace.RadioAutomation">
+        <test-method is-config="true" signature="initializeBrowser()[pri:0, instance:Workspace.RadioAutomation@5f16132a]" started-at="2025-05-27T22:35:54 IST" name="initializeBrowser" finished-at="2025-05-27T22:35:56 IST" duration-ms="2634" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method signature="SelectAnyOne()[pri:1, instance:Workspace.RadioAutomation@5f16132a]" started-at="2025-05-27T22:35:56 IST" name="SelectAnyOne" finished-at="2025-05-27T22:35:58 IST" duration-ms="1403" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectAnyOne -->
+        <test-method signature="ConfirmSelectOnlyone()[pri:2, instance:Workspace.RadioAutomation@5f16132a]" started-at="2025-05-27T22:35:58 IST" name="ConfirmSelectOnlyone" finished-at="2025-05-27T22:35:58 IST" duration-ms="136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfirmSelectOnlyone -->
+        <test-method signature="FindWhichOneIsselected()[pri:3, instance:Workspace.RadioAutomation@5f16132a]" started-at="2025-05-27T22:35:58 IST" name="FindWhichOneIsselected" finished-at="2025-05-27T22:35:58 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FindWhichOneIsselected -->
+        <test-method signature="FindBug()[pri:4, instance:Workspace.RadioAutomation@5f16132a]" started-at="2025-05-27T22:35:58 IST" name="FindBug" finished-at="2025-05-27T22:35:58 IST" duration-ms="103" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Both are selected expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Both are selected expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1590)
+at org.testng.Assert.assertTrue(Assert.java:57)
+at Workspace.RadioAutomation.FindBug(RadioAutomation.java:41)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1269)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FindBug -->
+        <test-method signature="ConfirmLastFieldIsDisabled()[pri:5, instance:Workspace.RadioAutomation@5f16132a]" started-at="2025-05-27T22:35:58 IST" name="ConfirmLastFieldIsDisabled" finished-at="2025-05-27T22:35:58 IST" duration-ms="164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfirmLastFieldIsDisabled -->
+        <test-method is-config="true" signature="browserQuit()[pri:0, instance:Workspace.RadioAutomation@5f16132a]" started-at="2025-05-27T22:35:58 IST" name="browserQuit" finished-at="2025-05-27T22:35:58 IST" duration-ms="135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserQuit -->
+      </class> <!-- Workspace.RadioAutomation -->
+    </test> <!-- RadioTest -->
+  </suite> <!-- RadioSuite -->
+  <suite started-at="2025-05-27T22:35:37 IST" name="ElementsSuite" finished-at="2025-05-27T22:35:42 IST" duration-ms="5418">
+    <groups>
+    </groups>
+    <test started-at="2025-05-27T22:35:37 IST" name="ElementsTest" finished-at="2025-05-27T22:35:42 IST" duration-ms="5418">
+      <class name="Workspace.ElementsAutomation">
+        <test-method is-config="true" signature="initializeBrowser()[pri:0, instance:Workspace.ElementsAutomation@60015ef5]" started-at="2025-05-27T22:35:37 IST" name="initializeBrowser" finished-at="2025-05-27T22:35:39 IST" duration-ms="2457" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method signature="elements()[pri:0, instance:Workspace.ElementsAutomation@60015ef5]" started-at="2025-05-27T22:35:39 IST" name="elements" finished-at="2025-05-27T22:35:42 IST" duration-ms="2839" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elements -->
+        <test-method is-config="true" signature="browserQuit()[pri:0, instance:Workspace.ElementsAutomation@60015ef5]" started-at="2025-05-27T22:35:42 IST" name="browserQuit" finished-at="2025-05-27T22:35:42 IST" duration-ms="120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserQuit -->
+      </class> <!-- Workspace.ElementsAutomation -->
+    </test> <!-- ElementsTest -->
+  </suite> <!-- ElementsSuite -->
+  <suite started-at="2025-05-27T22:36:03 IST" name="shadowSuite" finished-at="2025-05-27T22:36:11 IST" duration-ms="8506">
+    <groups>
+    </groups>
+    <test started-at="2025-05-27T22:36:03 IST" name="shadowTest" finished-at="2025-05-27T22:36:11 IST" duration-ms="8506">
+      <class name="Workspace.ShadowAutomation">
+        <test-method is-config="true" signature="initializeBrowser()[pri:0, instance:Workspace.ShadowAutomation@46fa7c39]" started-at="2025-05-27T22:36:03 IST" name="initializeBrowser" finished-at="2025-05-27T22:36:06 IST" duration-ms="2883" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method signature="shadowDOM()[pri:0, instance:Workspace.ShadowAutomation@46fa7c39]" started-at="2025-05-27T22:36:06 IST" name="shadowDOM" finished-at="2025-05-27T22:36:11 IST" duration-ms="5505" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shadowDOM -->
+        <test-method is-config="true" signature="browserQuit()[pri:0, instance:Workspace.ShadowAutomation@46fa7c39]" started-at="2025-05-27T22:36:11 IST" name="browserQuit" finished-at="2025-05-27T22:36:11 IST" duration-ms="117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserQuit -->
+      </class> <!-- Workspace.ShadowAutomation -->
+    </test> <!-- shadowTest -->
+  </suite> <!-- shadowSuite -->
+  <suite started-at="2025-05-27T22:36:38 IST" name="MasterSuite" finished-at="2025-05-27T22:36:38 IST" duration-ms="0">
+    <groups>
+    </groups>
+  </suite> <!-- MasterSuite -->
+  <suite started-at="2025-05-27T22:35:45 IST" name="POMSuite" finished-at="2025-05-27T22:35:54 IST" duration-ms="8557">
+    <groups>
+    </groups>
+    <test started-at="2025-05-27T22:35:45 IST" name="POMTest" finished-at="2025-05-27T22:35:54 IST" duration-ms="8557">
+      <class name="Workspace.POMAutomation">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:Workspace.POMAutomation@ba54932]" started-at="2025-05-27T22:35:45 IST" name="launchBrowser" finished-at="2025-05-27T22:35:48 IST" duration-ms="2627" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="PositiveLoginTest()[pri:1, instance:Workspace.POMAutomation@ba54932]" started-at="2025-05-27T22:35:48 IST" name="PositiveLoginTest" finished-at="2025-05-27T22:35:51 IST" duration-ms="3354" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PositiveLoginTest -->
+        <test-method signature="HomePage()[pri:2, instance:Workspace.POMAutomation@ba54932]" started-at="2025-05-27T22:35:51 IST" name="HomePage" finished-at="2025-05-27T22:35:53 IST" depends-on-methods="Workspace.POMAutomation.PositiveLoginTest" duration-ms="1803" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePage -->
+        <test-method signature="NegetiveLoginTest()[pri:3, instance:Workspace.POMAutomation@ba54932]" started-at="2025-05-27T22:35:53 IST" name="NegetiveLoginTest" finished-at="2025-05-27T22:35:53 IST" duration-ms="664" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NegetiveLoginTest -->
+        <test-method is-config="true" signature="browserQuit()[pri:0, instance:Workspace.POMAutomation@ba54932]" started-at="2025-05-27T22:35:53 IST" name="browserQuit" finished-at="2025-05-27T22:35:54 IST" duration-ms="105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserQuit -->
+      </class> <!-- Workspace.POMAutomation -->
+    </test> <!-- POMTest -->
+  </suite> <!-- POMSuite -->
+  <suite started-at="2025-05-27T22:35:29 IST" name="EditSuite" finished-at="2025-05-27T22:35:37 IST" duration-ms="7643">
+    <groups>
+    </groups>
+    <test started-at="2025-05-27T22:35:29 IST" name="EditTest" finished-at="2025-05-27T22:35:37 IST" duration-ms="7643">
+      <class name="Workspace.EditAutomation">
+        <test-method is-config="true" signature="initializeBrowser()[pri:0, instance:Workspace.EditAutomation@3f56875e]" started-at="2025-05-27T22:35:29 IST" name="initializeBrowser" finished-at="2025-05-27T22:35:31 IST" duration-ms="2454" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method is-config="true" signature="navigation()[pri:0, instance:Workspace.EditAutomation@3f56875e]" started-at="2025-05-27T22:35:31 IST" name="navigation" finished-at="2025-05-27T22:35:36 IST" duration-ms="4835" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigation -->
+        <test-method signature="SendKeys()[pri:1, instance:Workspace.EditAutomation@3f56875e]" started-at="2025-05-27T22:35:36 IST" name="SendKeys" finished-at="2025-05-27T22:35:36 IST" duration-ms="91" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SendKeys -->
+        <test-method signature="keyBoardTab()[pri:2, instance:Workspace.EditAutomation@3f56875e]" started-at="2025-05-27T22:35:36 IST" name="keyBoardTab" finished-at="2025-05-27T22:35:36 IST" duration-ms="64" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- keyBoardTab -->
+        <test-method signature="GetAttribute()[pri:3, instance:Workspace.EditAutomation@3f56875e]" started-at="2025-05-27T22:35:36 IST" name="GetAttribute" finished-at="2025-05-27T22:35:36 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAttribute -->
+        <test-method signature="ClearText()[pri:4, instance:Workspace.EditAutomation@3f56875e]" started-at="2025-05-27T22:35:36 IST" name="ClearText" finished-at="2025-05-27T22:35:36 IST" duration-ms="50" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClearText -->
+        <test-method signature="IsEnabled()[pri:5, instance:Workspace.EditAutomation@3f56875e]" started-at="2025-05-27T22:35:36 IST" name="IsEnabled" finished-at="2025-05-27T22:35:36 IST" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IsEnabled -->
+        <test-method is-config="true" signature="browserQuit()[pri:0, instance:Workspace.EditAutomation@3f56875e]" started-at="2025-05-27T22:35:36 IST" name="browserQuit" finished-at="2025-05-27T22:35:37 IST" duration-ms="105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserQuit -->
+      </class> <!-- Workspace.EditAutomation -->
+    </test> <!-- EditTest -->
+  </suite> <!-- EditSuite -->
+  <suite started-at="2025-05-27T22:35:17 IST" name="DragSuite" finished-at="2025-05-27T22:35:23 IST" duration-ms="5731">
+    <groups>
+    </groups>
+    <test started-at="2025-05-27T22:35:17 IST" name="DragTest" finished-at="2025-05-27T22:35:23 IST" duration-ms="5731">
+      <class name="Workspace.DragAutomation">
+        <test-method is-config="true" signature="initializeBrowser()[pri:0, instance:Workspace.DragAutomation@610f7aa]" started-at="2025-05-27T22:35:17 IST" name="initializeBrowser" finished-at="2025-05-27T22:35:20 IST" duration-ms="2692" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method signature="DragAndDrop()[pri:1, instance:Workspace.DragAutomation@610f7aa]" started-at="2025-05-27T22:35:20 IST" name="DragAndDrop" finished-at="2025-05-27T22:35:23 IST" duration-ms="2918" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DragAndDrop -->
+        <test-method is-config="true" signature="browserQuit()[pri:0, instance:Workspace.DragAutomation@610f7aa]" started-at="2025-05-27T22:35:23 IST" name="browserQuit" finished-at="2025-05-27T22:35:23 IST" duration-ms="120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserQuit -->
+      </class> <!-- Workspace.DragAutomation -->
+    </test> <!-- DragTest -->
+  </suite> <!-- DragSuite -->
+  <suite started-at="2025-05-27T22:36:11 IST" name="WaitSuite" finished-at="2025-05-27T22:36:21 IST" duration-ms="9614">
+    <groups>
+    </groups>
+    <test started-at="2025-05-27T22:36:11 IST" name="WaitTest" finished-at="2025-05-27T22:36:21 IST" duration-ms="9614">
+      <class name="Workspace.WaitAutomation">
+        <test-method is-config="true" signature="initializeBrowser()[pri:0, instance:Workspace.WaitAutomation@8317c52]" started-at="2025-05-27T22:36:11 IST" name="initializeBrowser" finished-at="2025-05-27T22:36:14 IST" duration-ms="3044" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method signature="waitAutomation()[pri:1, instance:Workspace.WaitAutomation@8317c52]" started-at="2025-05-27T22:36:14 IST" name="waitAutomation" finished-at="2025-05-27T22:36:21 IST" duration-ms="6441" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- waitAutomation -->
+        <test-method is-config="true" signature="browserQuit()[pri:0, instance:Workspace.WaitAutomation@8317c52]" started-at="2025-05-27T22:36:21 IST" name="browserQuit" finished-at="2025-05-27T22:36:21 IST" duration-ms="129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserQuit -->
+      </class> <!-- Workspace.WaitAutomation -->
+    </test> <!-- WaitTest -->
+  </suite> <!-- WaitSuite -->
+</testng-results>

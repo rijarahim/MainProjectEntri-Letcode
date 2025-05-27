@@ -1,0 +1,19 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="EditSuite">
+
+  <test name="EditTest">
+    <classes>
+      <class name="Workspace.EditAutomation">
+        <methods>
+          <include name="SendKeys"/>
+          <include name="keyBoardTab"/>
+          <include name="GetAttribute"/>
+          <include name="ClearText"/>
+          <include name="IsEnabled"/>
+         </methods>
+      </class>
+    </classes>
+  </test>
+  
+</suite>

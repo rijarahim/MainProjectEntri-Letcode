@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [DropSuite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="DropTest(failed)">
+    <classes>
+      <class name="Workspace.DropAutomation">
+        <methods>
+          <include name="initializeBrowser"/>
+          <include name="DragAndDrop"/>
+        </methods>
+      </class> <!-- Workspace.DropAutomation -->
+    </classes>
+  </test> <!-- DropTest(failed) -->
+</suite> <!-- Failed suite [DropSuite] -->

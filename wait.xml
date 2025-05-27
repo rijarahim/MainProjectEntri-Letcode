@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="WaitSuite">
+  <test name="WaitTest">
+    <classes>
+      <class name="Workspace.WaitAutomation">
+        <methods>
+        </methods>
+      </class>
+    </classes>
+  </test>
+</suite>

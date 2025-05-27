@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="ButtonSuite">
+  <test name="MyTest2">
+    <classes>
+      <class name="Workspace.ButtonAutomation">
+        <methods>
+        </methods>
+      </class>
+    </classes>
+  </test>
+</suite>

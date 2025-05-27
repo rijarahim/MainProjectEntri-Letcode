@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="AlertSuite">
+  <test name="AlertTest">
+    <classes>
+      <class name="Workspace.AlertAutomation">
+        <methods>
+        </methods>
+      </class>
+    </classes>
+  </test>
+</suite>
